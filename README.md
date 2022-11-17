@@ -31,7 +31,7 @@ Suggested Structure:
 - Contain all code in one main.py file. Could also be a .ipynb file. 
 - A README file consisting of project documentation. I would recommend a .md file.
 - Read the user's input using Python's inbuilt input() function i.e. multiple calls to input().
-- A user-defined function that validates and parses the user's input. Think of a appropriate function name.
+- A user-defined function that validates and parses the user's input. Think of a appropriate function name and appropriate checks.
 - A user-defined function that uses Python's random package to select the names from the shortlist. Think of a appropriate function name.
 - Prints the shortlisted names to the user.
 
