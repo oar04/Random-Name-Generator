@@ -15,7 +15,7 @@ In this project, you will be building a text-based user interface that will take
 - Basic structure of Python Scripts
 
 ## Project Brief
-This application with simulate randomly generating names from a pre-defined list. A use case could be: a set of new parents can't choose a name from a shortlist. Why not use Python to help! 
+This application will simulate randomly generating names from a pre-defined list. A use case could be: a set of new parents can't choose a name from a shortlist. Why not use Python to help! 
 
 The application will: 
 - Take a user input of shortlist names.
