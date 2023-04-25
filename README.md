@@ -16,6 +16,6 @@ To use the code, run main.py using Python. You will be prompted to enter a list 
 
 Here is an example of how to use the code:
 
-1) Enter a list of names separated by spaces, e.g. "Bob Steve Adam Joseph"
+1) Enter a list of names separated by spaces, e.g. "Bob, Steve, Adam, Joseph"
 2) Enter the number of names you want to see, e.g. "2"
 3) Observe a random selection of the specified number of names, e.g. "Steve, Joseph"
